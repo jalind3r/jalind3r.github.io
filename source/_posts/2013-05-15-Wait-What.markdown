@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Wait What?"
+date: 2013-05-15 23:58
+comments: true
+categories: 
+---
+<p>Say, for example, you have five blog posts in your WordPress blog. When you visit http://yoursite.com, excerpts from these five posts show up on your home page. You click on a link to take you to the full post page. Each of these pages is served to your browser as HTML, styled by CSS; you may or may not have JavaScript that helps define some interactive behaviors.
+The pages on your WordPress-powered blog are built on the fly; database queries are run to get the different pieces, such as the title, content, or permalink. These are then returned and processed by PHP for each request (assuming you don't have a caching plugin installed).</p>
