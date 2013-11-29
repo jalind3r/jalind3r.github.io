@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://jalind3r.github.io/atom.xml" rel="self"/>
+  <link href="http://jalind3r.github.io/"/>
+  <updated>2013-11-30T00:57:39+05:30</updated>
+  <id>http://jalind3r.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Wait What?]]></title>
+    <link href="http://jalind3r.github.io/blog/2013/05/15/Wait-What/"/>
+    <updated>2013-05-15T23:58:00+05:30</updated>
+    <id>http://jalind3r.github.io/blog/2013/05/15/Wait-What</id>
+    <content type="html"><![CDATA[<p>Say, for example, you have five blog posts in your WordPress blog. When you visit http://yoursite.com, excerpts from these five posts show up on your home page. You click on a link to take you to the full post page. Each of these pages is served to your browser as HTML, styled by CSS; you may or may not have JavaScript that helps define some interactive behaviors.
+The pages on your WordPress-powered blog are built on the fly; database queries are run to get the different pieces, such as the title, content, or permalink. These are then returned and processed by PHP for each request (assuming you don&#8217;t have a caching plugin installed).</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Okay so it's Static]]></title>
+    <link href="http://jalind3r.github.io/blog/2013/05/13/Okay-so-it%27s-Static/"/>
+    <updated>2013-05-13T21:19:00+05:30</updated>
+    <id>http://jalind3r.github.io/blog/2013/05/13/Okay-so-it&#8217;s-Static</id>
+    <content type="html"><![CDATA[<p>Browsers read HTML, CSS, and JavaScript natively. Every other language is used to generate these three types of files. Static sites are created from hard-coded static files that do not rely on any server processes (unlike PHP or any other server-side-generated sites). Jekyll, the underlying framework, instead relies on the content editor&#8217;s local environment to generate the static files that will eventually be deployed.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
